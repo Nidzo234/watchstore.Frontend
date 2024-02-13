@@ -1,0 +1,6 @@
+.startImages{
+    width: 100%; /* Set the width to 100% of the viewport width */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    object-fit: cover; /* Maintain aspect ratio while covering the entire container */
+    object-position: center; /* Center the image within its container */
+}
